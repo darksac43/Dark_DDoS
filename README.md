@@ -13,7 +13,7 @@ Para instalar y usar Dark_DDoS, sigue estos pasos:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/Dark_DDoS.git
+    git clone https://github.com/darksac43/Dark_DDoS.git
     ```
 
 2. Navega al directorio del proyecto:
